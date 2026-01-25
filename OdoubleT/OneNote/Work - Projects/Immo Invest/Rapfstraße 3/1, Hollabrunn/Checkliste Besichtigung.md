@@ -1,0 +1,31 @@
+- [ ] Einflugschneise Flughafen, lauter Schienenverkehr, laute Straße, Disco in der Nähe, Abgase —\> Microlage evaluieren  
+- [ ] **Keller:**  
+- [ ] Heizung:  
+- [ ] Typenschild fotografieren (Baujahr - Heizung hält ca. 30 Jahre)  
+- [ ] Eisenrohre (schlecht) oder Kupferrohre (am besten mit Isolierung)  
+- [x] Träger testen wenn vorhanden (oberflächlicher Rost kein Problem aber wenn man den Schlüssel tief reindrücken kann dann sehr schlecht)  
+- [x] Sind lebende Spinnen vorhanden ist das gut. Sind nur tote weisse Spinnen vorhanden kann das heissen, dass lange Feuchtigkeit vorhanden war  
+- [x] Wasser im Keller  
+- [ ] Tiefgarage?  
+- [ ] **Treppenhaus:**  
+- [ ] sollte und Holztreppen sein  
+- [ ] Fenster: aus welchen Jahr (steht oft im Rahmen) - keine Holzfenster wenn mgl.  
+- [ ] Sägemehl - Schädlingsbefall  
+- [ ] Fahrstuhl  
+- [ ] **Aussen:**  
+- [ ] Isolierung  
+- [ ] Klingelanlage  
+- [ ] Eingangstüre  
+- [ ] Innenhof anschauen und von hinten besichtigen (feuchte Stellen)  
+- [ ] Hängen Kameras und warum?  
+- [ ] **Dach:**  
+- [ ] Dachstuhl mit Isolierung, Dichtheit  
+- [ ] Ziegelsteine  
+- [ ] **Wohnung:**  
+- [x] Klingelanlage  
+- [x] Heizung  
+- [x] Sanitäreinrichtung  
+- [x] Strom  
+- [x] Fenster (wie alt, Verglasung) Doppel  
+- [x] Fußboden  
+- [x] Kaminschluss möglich

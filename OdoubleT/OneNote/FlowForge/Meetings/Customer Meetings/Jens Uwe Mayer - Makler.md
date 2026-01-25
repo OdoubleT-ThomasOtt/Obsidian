@@ -1,0 +1,115 @@
+[(13) Jens-Uwe Meyer | LinkedIn](https://www.linkedin.com/in/jens-uwe-meyer-083764350/)
+ - Aktuelle Software ist sehr mächtig und aufwendig und teuer.
+- Wertermittlung macht --\> dauert mindestens 1h
+    - Vergleichwohnungen finden
+    - Checkliste für Wohnungbegehung
+- Dokumentvorlagen (Datenschutz etc.)
+- Expose erstellt (2. Stile, klassisch, modern und Logo einfügen) -\> Fotos machen und Design des Word Files damit es im PDF gut ausschaut. -\> dauert mindestens 1,5h für die Aufbereitung
+- **Energiepass erstellt - Energiebeauftrager nötig -\> 65€ (soll als Service mit angeboten werden)**
+- **Wohnflächenberechnung (sind soweit nicht verfügbar aber von der Bank gefordert) - Archtitekt einbinden da dieser das auch gewährliesiten soll (soll als Service mit angeboten werden) -\> wird Anhand der Grundrisse berechnet oder** muss mit 360 Grad Kamera gemessen werden
+- Soll minimalistisch sein
+- Kommunikation
+    - Email (Outlook - nutzt auch den Kalender - alle accounts dort vereinigt)
+    - Telefon
+    - Whatsapp
+- DSGVO - bei Erstkontakt nur mail ohne Bestätigung und bei persönlichen Kontakt dann Unterschrift
+- Weiterbildung hinterlegen und Erinnerung wann wieder nötig mit link zur besten Weiterbildungsmaßnahme
+- Einholung der Daten von Verkäufer
+    - Automatische Kontrolle und Rückfragen
+    
+1. **Gesprächseröffnung und Vertrauensaufbau**
+2. **Freundliche Begrüßung & Vorstellung**
+    - Dank für die Zeit des Kunden ausdrücken.
+        - Wir sind ein Team aus 4 selbstständigen Unternehmern und entwickeln maßgeschneiderte Software und Workflow-Lösungen.
+        - Wir setzen kontinuierlich erfolgreich seit 17 Jahren Projekte im Umfang von einigen Personentagen bis mehreren Personenjahren Laufzeit um.
+        - Darunter sind Büro Automationen wie bspw. Benutzer On- und Offboarding aber auch Infrastruktur und Content Automatisierungen um.
+      
+    
+3. **Ziel des Gesprächs skizzieren**
+    - “Heute möchte ich vor allem verstehen, wie Ihre aktuelle Situation aussieht, welche Herausforderungen Sie haben und wie wir Sie dabei unterstützen können, Ihre Ziele zu erreichen.”
+    - Betonung: Nicht “verkaufen”, sondern “helfen, eine fundierte Entscheidung zu treffen”.
+4. **Small Talk / Eisbrecher**
+    - Ein bis zwei offene Sätze zur Situation des Kunden (z. B. Bezug auf Branche, Branchetrend, jüngste Ereignisse im Unternehmen).
+    - Danach direkt Überleitung: “Darf ich Ihnen ein paar Fragen stellen, um besser zu verstehen, wo Sie gerade stehen?”
+
+**Tipp:** Bereits hier beim „Full Value Listening“ ansetzen: Notizen bereitlegen, um dem Kunden sofort zu signalisieren, dass Sie genau zuhören und seine Aussagen festhalten.
+
+**Wer sind wir:**
+   
+
+**2. Aktuelle Situation („Now State”) erkunden**  
+**2.1 Offene Fragen stellen**
+
+- “Erzählen Sie mir, wie sieht Ihr Arbeitsalltag und der ihrer Mitarbeiter aussieht und ob dieser Prozessen folgt oder in Zukunft folgen sollte?”
+- “Können wir etwas mehr Details zu [relevanter Prozess] besprechen?”
+- “Welche Tools oder Systeme nutzen Sie momentan, um [z. B. Dokumentation/Prozesse/etc.] zu managen?”
+    
+    **CAFM-Lösungen (**Computer-Aided Facility Management**) Planon, Archibus, FM:Systems, iMaintenance, ProLeiT / proRM, Coram, PITFM**
+    
+    - **Sind diese Tools ausreichend oder fehlen wir relevante Dinge bzw. kann man diese anreichern?**
+- “Wo liegen Ihre größten Herausforderungen oder Frustrationen im Tagesgeschäft?”
+    
+    - bspw. Manuelle Erfassung dauern oft x Stunden pro Tag oder Fehler bei der Erfassung führen zu X Kosten oder fehlende Transparenz bei der Rechnungslegung verursacht X Euro Mehraufwand
+    
+    - Sie bringen den Kunden dazu, viel zu erzählen und sich selbst zu reflektieren.
+    - Sie als Verkäufer behalten die Kontrolle, weil Sie durch gezielte Fragen das Gespräch lenken, ohne zu dominieren.
+
+**Warum offene Fragen?**  
+**2.2 Full Value Listening**
+
+- Machen Sie sich **während** des Kundenbeitrags Notizen: Schmerzpunkte, genannte Zahlen (z. B. Zeitaufwand, Kosten), konkrete Beispiele.
+- Blickkontakt halten, aber gleichzeitig schreiben: Das zeigt Wertschätzung.
+ 
+**3. Vergangenes („Past / Change Story”) aufdecken**
+
+1. **„Was hat sich verändert?”**
+    - “Gab es in letzter Zeit einen Auslöser, der Sie dazu gebracht hat, sich nach einer Lösung umzusehen?”
+    - “Was war der konkrete Anlass dafür, heute dieses Gespräch zu führen?”
+2. **Compelling Event & Schmerz herausarbeiten**
+    - “Sie erwähnten gerade, dass … Wie hat sich das konkret in Ihrem Tagesablauf ausgewirkt?”
+    - “Wie hoch schätzen Sie den dadurch entstandenen Mehraufwand oder die Kosten pro Monat?”
+3. **Schmerzgefühl verstärken** (verkaufen durch Schmerz-Aufdeckung)
+    
+    - “Wenn Sie an die vergangenen Monate denken: Welche Auswirkungen hatte dieser Prozess auf Ihre Effizienz/auf Ihr Team/auf Ihr Budget?”
+    - “Wie fühlt es sich für Sie an, wenn … (schwierige Situation schildern)?”
+    
+    - Der Kunde fühlt den Schmerz seiner bisherigen Situation.
+    - Er erkennt die Dringlichkeit einer Veränderung und wird damit empfänglicher für mögliche Lösungen.
+
+**Ziel dieser Phase:**
+ 
+**4. Zukunftsvision („Desired Future State”) erarbeiten**
+
+1. **Wünsche & Ziele abklären**
+    - “Wie sähe für Sie ein optimaler Ablauf im Idealfall aus?”
+    - “Wenn wir gemeinsam eine Lösung finden, wie müsste diese Ihre Prozesse verändern, damit Sie wirklich zufrieden sind?”
+    - **“Welche Kennzahlen wären für Sie ausschlaggebend, um sagen zu können: ‘Ja, nun läuft alles reibungslos!’?”**
+2. **Konkretisierung**
+    
+    - “Stellen Sie sich vor, Sie müssten nie wieder … (das Schmerz-Problem) … Wie würde das Ihren Alltag erleichtern?”
+    - **“Welche Effizienzgewinne oder Kosteneinsparungen wünschen Sie sich konkret?”**
+    
+    - Klare Vorstellung des gewünschten Zustands.
+    - Basis für spätere Dollarisierung (messbaren Wert in Euro/Prozentsätzen ableiten).
+
+**Ergebnis:**
+ 
+**5. Wert (Value) dollarisieren und messbar machen**
+
+1. **Geschäftskennzahlen erfragen**
+    - “Wie viel Zeit (in Stunden oder Tagen) investiert Ihr Team pro Woche in [Pain Point]?”
+    - “Wie viel kostet Sie diese manuelle Arbeit oder dieser Fehler pro Monat/Jahr?”
+    - “Mit welchen Umsatzeinbußen oder Fehlmengen rechnen Sie aktuell – rein monetär?”
+2. **Konkrete Berechnung**
+    - “Wenn Sie pro Woche 10 Stunden für … aufwenden und Ihre Ressource 50 Euro/Stunde kostet, sind das rund 500 Euro pro Woche, also 2.000 Euro pro Monat an Personalkosten.”
+    - “Wenn durch verspätete Materialbestellungen Verzögerungskosten von durchschnittlich 1 % des Auftragswerts entstehen, reden wir schnell über 5.000–10.000 Euro pro Quartal.”
+3. **ROI-Szenario aufzeigen**
+    
+    - “Angenommen, wir könnten Ihren Aufwand um 50 % reduzieren. Dann sparen Sie pro Monat 1.000 Euro – auf ein Jahr hochgerechnet sind das 12.000 Euro.”
+    - “Wenn unsere Lösung direkt eine fehlerfreie Materialbestellung gewährleistet, könnten Sie Ihre Lager- und Strafkosten um 20 % senken – das wären bei Ihrem aktuellen Volumen rund X Euro.”
+    
+    - Der Preis rückt in Relation zum greifbaren Nutzen.
+    - Der Kunde sieht: “Für 5.000 Euro Aufpreis bekomme ich 12.000 Euro Einsparung.”
+    - Emotionale und rationale Ebene werden verknüpft.
+
+**Ziel der Dollarisierung:**
