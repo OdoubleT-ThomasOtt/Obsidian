@@ -1,4 +1,7 @@
 {
   "attachmentFolderPath": "90 Extras/Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "showLineNumber": true
 }

@@ -1,1 +1,0 @@
-- Aufteilung Baufläche (Grundstück) und Wohnfläche. Wohnfläche so hoch wie möglich (12,5-20%) damit man einen höheren Betrag steuerlich pro Jahr abschreiben kann (steuerliche Abschreibung geht nur auf Wohnfläche)
