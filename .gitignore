@@ -1,3 +1,16 @@
 # MCP Server config (may contain sensitive data)
-# Uncomment if needed:
-# .mcp.json
+.mcp.json
+
+# Obsidian plugins
+.obsidian/plugins
+OdoubleT/.obsidian/plugins/
+
+# Obsidian session files (change frequently)
+OdoubleT/.obsidian/workspace.json
+OdoubleT/.obsidian/graph.json
+
+# Smart Connections cache
+OdoubleT/.smart-env/
+
+# JetBrains/Rider IDE
+.idea/
