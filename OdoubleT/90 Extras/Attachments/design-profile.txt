@@ -1,0 +1,71 @@
+// Auto-generated Design Profile (from logo image)
+// Usage: import tokens from './design-profile.js';
+// Tokens are opinionated but easy to map to Tailwind, CSS variables or design systems.
+
+const tokens = {
+  brand: {
+    name: "The Thaimassage",
+    tagline: "lay down and relax",
+  },
+  colors: {
+    // Core brand
+    primary: "#280540",
+    primaryDark: "#210532",
+    accentPurple: "#551744",
+    accentMagenta: "#661a51",
+    accentMaroon: "#6d2239",
+    accentGold: "#b2866e",
+    // Gradients (from header background)
+    gradientHeader: ["#210532", "#6d2239"],
+    gradientFooter: ["#280540", "#551744"],
+    // Text
+    textOnDark: "#ffffff",
+    textMuted: "#e6d8f0",
+  },
+  typography: {
+    // Suggested Google Fonts to match the look
+    display: ["Playfair Display", "Cormorant Garamond", "serif"],
+    scriptAlt: ["Great Vibes", "Allura", "cursive"],
+    body: ["Inter", "Noto Sans", "system-ui", "sans-serif"],
+    baseSizePx: 16,
+    scale: { xs: 12, sm: 14, md: 16, lg: 18, xl: 22, "2xl": 28, "3xl": 34 }
+  },
+  radii: { sm: 6, md: 12, lg: 20, pill: 999 },
+  spacing: { xs: 4, sm: 8, md: 12, lg: 20, xl: 32, "2xl": 48 },
+  shadows: {
+    soft: "0 6px 20px rgba(0,0,0,0.25)",
+    glow: "0 0 0 3px #b2866e55"
+  },
+  components: {
+    button: {
+      background: "linear-gradient(135deg, #210532, #551744)",
+      color: "#fff",
+      radius: "999px",
+      padding: "10px 18px",
+      hoverFilter: "brightness(1.08)"
+    },
+    card: {
+      background: "linear-gradient(180deg, #280540 0%, #210532 100%)",
+      border: "1px solid #55174466",
+      radius: "20px",
+      padding: "24px",
+      shadow: "0 12px 30px rgba(0,0,0,0.35)"
+    },
+    badge: {
+      background: "#b2866e",
+      color: "#210532",
+      radius: "999px",
+      padding: "4px 10px"
+    }
+  },
+  cssVariables: `:root {
+    --color-primary: #280540;
+    --color-primary-dark: #210532;
+    --color-accent-purple: #551744;
+    --color-accent-magenta: #661a51;
+    --color-accent-maroon: #6d2239;
+    --color-accent-gold: #b2866e;
+  }`
+};
+
+export default tokens;

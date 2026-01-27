@@ -1,0 +1,489 @@
+SEO is completely changing and
+thankfully it's changing in a way that
+actually gives you a stronger advantage
+than you even know. While most
+businesses are panicking about losing
+Google traffic to AI, a small group of
+smart business owners figured out how to
+pivot their strategy toward AI to get
+tools like Chat GBT, Perplexity, Gemini,
+even Google's own AI mode to recommend
+their business when people ask for
+suggestions. And here's the crazy part.
+Customers coming from AI recommendations
+are worth 4.4 times more than regular
+Google clicks. But almost nobody knows
+how to tap into this gold mine yet. But
+stick with me to the end and you will.
+In this video, I'll show you exactly how
+AI SEO is different from traditional
+Google SEO and why it's the better
+opportunity. what specific content you
+need to add to your website to get AI
+tools recommending your business
+specifically and what you need to do on
+other websites around the web to amplify
+that signal so it can work even harder
+for you. Now, to start, you need to
+understand just how big this shift
+actually is and how people are changing
+that the way they look for businesses
+like yours online. So, last month I had
+this big project. We're up here on my
+rooftop and my pergola needed to be
+completely repainted. And honestly, the
+idea of going to Google and just having
+to sift through all those painting
+companies trying to figure out which
+ones were actually good, you know,
+reading through a bunch of reviews, not
+really knowing what to even base my
+decision on, it was way more work than I
+had time for. So rather than doing that
+whole Google dance, I instinctively just
+opened up Chat GBT and I told it exactly
+what I needed done, what was important
+to me, like you know, someone who had
+experience on rooftops and wouldn't
+leave a mess. and I asked it for its
+best recommendations. And instead of
+getting a list of blue links that I had
+to open up one by one and investigate
+myself, Chad GBT just gave me three
+really solid recommendations with
+specific reasons why each one would be a
+good fit for my project. So I called all
+three of them. I got a bid from each of
+them and I ended up with a really great
+contractor and a pretty nice looking
+pergola. And it's not just me that's
+People Are Trusting AI Tools
+going this direction. So people are
+starting to trust AI tools way more than
+traditional Google searches now because
+they feel like AI is giving them, you
+know, objective, unbiased results. Plus,
+when someone uses AI search, they're
+completing their entire buyer's journey
+right there in the chat from I have a
+problem to here's the exact solution I
+need. And studies are showing that
+customers coming from AI recommendations
+are worth 4.4 four times more than
+Google clicks because they're already
+pre-sold on why that business is the
+right choice. This creates a huge
+opportunity for businesses that figure
+out AI SEO first. We are right in the
+middle of a blue ocean opportunity here.
+And what I'm about to show you can
+actually start working right away. You
+can start getting traffic from AI tools
+in days, not months or the years that it
+would take for traditional SEO. So, what
+What Makes AI SEO Different
+exactly makes AI SEO different from the
+Google SEO that you're used to? Well,
+first, AI SEO doesn't rely on keyword
+phrases like traditional SEO does. So,
+don't worry about, you know, picking out
+the exact right word that you want to
+rank for or how many times you're using
+a particular phrase on your site. The AI
+is just smart enough to work it out. So,
+it just thinks much more like a person
+than how Google thinks and arranges and
+sorts information. Second, AI tools know
+a lot about the person that's asking for
+recommendations, like you know, their
+age, location, what they've talked about
+before, and it just knows that through
+the conversations it's already had. So,
+when your ideal customer asks for help,
+you want the AI to think this person
+sounds exactly like the type of customer
+your business is perfect for. That means
+you need to know your ideal customer
+really well so that you can write about
+serving people just like them. So, just
+think through who you do your very best
+work for. Things like their age, where
+they live, and especially the big
+problems you can solve for them. Third,
+everything you're going to write should
+be written conversationally. So, while
+most of this isn't designed to be read
+by actual people, AI models actually
+prefer human sounding content to pass
+along to their users. So, skip all the
+corporate jargon and just write it like
+you would speak it. And luckily, AI can
+help you do that. You don't need to
+write this all yourself. Just ask it to
+write conversationally at a seventh
+grade level. That's what I found works
+best here. Fourth, most of the content
+you're going to be writing shouldn't be
+written in first person from you, the
+business owner. It needs to sound less
+biased in the voice of an expert in the
+field writing about you as their top
+choice. And finally, there will
+naturally be a lot of overlap in the
+content that I'm going to go over in a
+second, but don't worry about duplicate
+or thin content. AI tools don't care
+about those things like Google does. You
+just need to focus on being helpful,
+specific, and brief. But the biggest
+AI SEO vs Traditional SEO
+difference between AI SEO and
+traditional SEO is where it fits into
+your overall salesunnel. You know,
+traditional SEO was usually about
+writing blog posts that answered
+informational questions like how to
+train your puppy or the best way to get
+clients from LinkedIn. Those are
+considered top offunnel questions you
+could answer and hopefully get people to
+read more and more of your content until
+they were ready to actually hire you to
+train their puppy for them or optimize
+their LinkedIn profile for better lead
+generation. But with AI SEO, the game
+here isn't to answer those type
+offormational questions. AI is just
+going to do that itself now. So the
+questions that you want to focus on here
+are those bottom offunnel buyer intent
+type questions like which business is
+the best you know pergola painter for
+instance. So the goal here really is to
+train the AI platforms that you're the
+best fill in the blank business in your
+category. All right now let's get into
+The AI SEO Playbook
+the actual playbook here. And by the way
+this is a real playbook you can download
+and follow along with as a checklist.
+Just go to the link below in the
+description to get your own copy of it.
+Now, just like with traditional SEO,
+there's really two ways to split up the
+work. You have onpage, which is stuff
+that you put on your website, and off-
+page, which is everything else that
+you're going to do around the web. So,
+let's just start with on page here.
+These are all the new things that you
+want to make sure are on your website so
+that the AI can easily find the
+information and use it to recommend your
+business. So, the first thing you want
+Best Fit Briefs
+to create are what I call best fit
+briefs. These are just really short
+posts that position your business as the
+best choice for, you know, various
+situations. And the reason you want to
+do this is to spoon feed AI all the
+circumstances and situations where your
+company should be the top choice. Now, I
+would have the headline phrased as a
+question asking for a recommendation.
+For example, who's the best artificial
+turf installer in Las Vegas? Just try to
+brainstorm as many specific situations
+and requests you can think of that would
+lead to AI recommending you. So use chat
+GBT to help you brainstorm more. If
+you're stuck, put each question as the
+headline, then answer it really simply
+and just include the features and the
+benefits that you bring to the table
+that make it a no-brainer. Include a
+real testimonial or multiple
+testimonials if they help back up your
+claim for that specific question. And
+since AI tools really prefer those short
+to the point answers over fluff, keep
+each one of these brief and
+conversational. Okay, but where should
+you put these best fit briefs on your
+website? This and just about everything
+else we're going to talk about can
+easily be added to your website's blog
+section. So each brief would be its own
+short blog post. And I would definitely
+recommend moving your blog link down to
+the footer of your site where it's less
+likely to be picked up and read by human
+visitors. But the AI is still going to
+really be able to easily find all this
+new content. Next up is your top reasons
+Top Reasons Series
+series. Now, this creates clear,
+structured content that AI can easily
+pull from when making recommendations.
+So, just make a list of all of your
+services. And then you want to write an
+article for each titled top reasons to
+choose your business for the service you
+offer. And it really just needs to be a
+simple list of the top five to 10
+reasons why you're the best choice for
+that service. You want to include things
+like features you offer, benefits,
+pricing, anything that you could argue
+makes you the best in that category. And
+again, get ChatGBT to help you if you
+need help brainstorming and actually
+writing these. And you do just want to
+write one of these for each of your
+services. If you're a local business
+Strategic Service City Posts
+that works with customers in person, you
+also want to add in strategic service or
+city posts. These help you dominate
+those local AI search results for
+specific service and location
+combinations. So, here's what you want
+to do. First, make a simple spreadsheet
+of all your services along the top, then
+all the cities you service along the
+side. Then, you're just going to make a
+post for every one of these
+combinations. And you want to title them
+something like best service in city. and
+then write your business's name. Write a
+paragraph or two explaining why you're
+the best business in that area in third
+person, almost as an independent expert,
+not as the business owner. And again,
+you want to include any relevant
+testimonials or case studies of anyone
+you helped with that service in that
+city. Now, will the content be super
+similar within each service from city to
+city? Yes. And like I said, that's
+completely fine. Okay. Next, for each
+Service Comparison Table
+service you provide, you want to create
+a really simple structured comparison
+table between you and your three to five
+biggest competitors where you come out
+ahead as the clear winner. And the
+reason this works so well is because
+this is just the exact kind of deep
+research that AI tools can really grab
+on to when helping people make
+decisions. Now, don't lie about yourself
+or your competitors to make this happen.
+Just try to be clever and steer the edge
+toward you in as many of the categories
+as makes sense. You can use categories
+like pricing, features, benefits, you
+know, whatever makes sense. So, you want
+to title this something like who's the
+best fill-in-the-blank service, a full
+comparison. So, you want to do it for
+every major service you provide. Now,
+Key Pages
+let's talk about a few key pages that
+your website should probably already
+have. But if you don't have them, you
+just want to add them as pages, not as
+articles or posts or, you know, blog
+posts because your clients would expect
+to see these pages and they'll really
+help with conversions anyway. In other
+words, these are for the AI, but they're
+also for people actually coming to your
+site who are trying to vet you out. So,
+first you need an FAQ page. So, this
+makes it really easy for AI to find
+clear answers about your business when
+making recommendations. So, have a
+dedicated page answering as many
+questions as possible that people are
+going to have when they're deciding if
+they want to work with you or not.
+Second, you want a case studies page.
+So, case studies show real proof of
+results that AI can reference when
+explaining why someone should choose
+you. So tell the stories of some of the
+best transformations you've made for
+your customers. Include things like the
+services you gave them, where they were
+before they found you, and then
+ultimately how their situation was made
+better after you did your thing. And you
+do want to lead with your best ones, but
+you can, you know, add as many as you
+want over time. The more the merrier
+here. Third, testimonials. So reviews
+and testimonials are a huge factor when
+AI tools are deciding who to recommend.
+So, if you already have reviews on, you
+know, review sites, it's pretty easy.
+Just grab all the positive testimonials
+you can from all those places, Yelp,
+Google reviews, your Facebook page,
+anywhere that people leave them online.
+And then you just want to paste them
+onto a dedicated testimonials page on
+your site. And it's important to lead
+with the very best ones that really tell
+a good story of transformation, but then
+after that, just add as many as
+possible. I'd also recommend including a
+little line below the headline about how
+many reviews you have and your average
+star rating. You know, assuming it's
+good. And finally, you want a pricing
+page so both your customers and AI
+expect to see this information when
+making recommendations. Not only do your
+customers expect to see it on your site,
+you better believe some people will
+specifically be asking about it and
+using it as a decision factor when
+they're looking for those
+recommendations. So, it's best not to
+hide it. You can even just list ballpark
+ranges or starting at prices if you, you
+know, bid on jobs and you can't list out
+hard prices. Just give them some kind of
+an indication. And just make sure the
+rest of your website does a really good
+job of highlighting your unique selling
+points. You know, the things that make
+your business special, like the benefits
+you offer that your competition doesn't,
+or at least the benefits that you offer
+that they don't talk about. Now, let's
+Off Page SEO
+talk about the off- page stuff. Right?
+This is where AI SEO gets really
+different from traditional SEO. And
+honestly, it's way better news for small
+businesses. Cuz with traditional SEO,
+you had to get a bunch of high authority
+websites to actually link back to your
+site. And by high authority, I mean, you
+know, websites that Google considered to
+be super reputable, were around a long
+time, and they had strong track records.
+It was honestly the hardest part about
+SEO. you know, trying to convince a
+bunch of big websites to link to you
+when you're just a small business, it
+was always pretty rough. But here's the
+thing about these AI tools. They care
+way more about just how the internet is
+talking about your business. Does not
+matter if the sites are linking to you
+or not. They're just pulling information
+from all over the place. Reddit, Kora,
+review sites, social media, basically
+anywhere that people are discussing
+businesses like yours. And this is great
+news because it's so much easier to get
+mentioned in places like those than it
+ever was to get back links from big
+blogs. The first thing you need to do is
+Get Mentioned Everywhere
+get yourself mentioned everywhere you
+possibly can. So AI tools learn about
+businesses from all the different
+directories and platforms. So you want
+to claim and fill out every single
+profile that makes sense for your
+business. I'm talking Google business
+profile, Bing Places, Better Business
+Bureau, you know, make a LinkedIn
+company page, all of your social media
+profiles, and make sure you actually
+fill out those about sections. Don't
+just leave them blank. Then you want to
+list yourself on every major directory
+that applies to your industry. So, Yelp,
+Angie, Home Advisor, whatever makes
+sense for your industry, right? And if
+you're a local business, find those
+business directories in your city and
+list yourself there, too. Now, this does
+sound like a lot of work, and it can be,
+but there is a tool called Yex that can
+actually distribute all of your
+information across hundreds of these
+kinds of platforms all at once, and
+that's going to save you a lot of time.
+Get 5 Star Reviews
+Next up, you want to get as many
+five-star reviews as possible. So, the
+number of reviews you have and your
+average star rating has a really big
+impact on whether AI tools recommend you
+or not. And unfortunately, most AI tools
+seem to be favoring Yelp reviews right
+now. And I say unfortunately because I
+actually hate Yelp as a company. The way
+that they show or hide reviews as a tool
+to get you to buy advertising is really
+problematic. But it is what it is. So do
+not pay for their advertising.
+Seriously, don't even answer their phone
+calls. But do try to play by their rules
+and just get more of your happy
+customers to leave reviews there. Okay.
+Get Featured in Articles
+So this is one of the highest lever
+things you can do to help AI recommend
+you. You know, all those tools pull
+really heavily from articles that round
+up the best businesses in different
+categories. So, if there's an article
+titled best contractors in Phoenix, and
+you're mentioned in it, AI is way more
+likely to recommend you when someone
+asks for a contractor recommendation.
+So, you can do things like, you know,
+reach out to bloggers and journalists
+who write these kinds of articles and
+pitch why you should be included. And
+they don't even need to link to you.
+Remember, just getting your business
+name mentioned is valuable on its own
+because that's what the AI is reading.
+And if you can't get featured through,
+you know, reaching out to people, there
+are SEO services that can get articles
+placed on blogs for you for a fee. Or
+you can even write your own best of list
+with your business as the top choice.
+Then use a press release service to get
+it distributed to all the major websites
+like NBC, CBS, Fox. Just make sure it
+feels somewhat newsworthy or it might
+get rejected. And speaking of press
+Use a Press Release Service
+releases, you can use this same strategy
+to get mentions for other things, too.
+So, you know, write articles about
+success stories with your customers,
+announce new services that you're
+offering or an award you won. The whole
+point is just to get your business name
+mentioned across the web as many times
+as possible as a top choice in your
+category. Now, there's a lot to do here,
+but I've got you covered. So, I want you
+to download the full playbook right here
+so you can just go piece by piece in
+whatever time you have and know that
+you're maximizing your effort. So, just
+click right here and I'll send you your
+free copy of my AI SEO playbook right
