@@ -1,0 +1,4 @@
+|   |   |
+|---|---|
+|[Herzlich Willkommen \| Online Life School](https://www.online-lifeschool.com/)|Passendes Angebot|
+|[Ganz nebenbei trainiert: - InVia Online-Schule und Workshops international](https://www.invia.schule/kurse-workshops-veranstaltungen/)|Unterstützung aber viel zu wenig|

@@ -2,7 +2,7 @@
 created: 2026-01-27
 updated: 2026-01-27
 type: note
-up: "[[01 Atlas/Immo Invest/Kaufwissen/Kauf]]"
+up: "[[Kauf]]"
 tags:
   - effort/ongoing
   - immo/kauf

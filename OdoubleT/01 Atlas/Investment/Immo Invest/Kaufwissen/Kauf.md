@@ -14,8 +14,8 @@ Index fur alle Kaufprozess-Dokumente und Checklisten.
 
 ## Dokumente
 
-- [[01 Atlas/Immo Invest/Kaufwissen/Suchkriterien]]
-- [[01 Atlas/Immo Invest/Kaufwissen/Umgang mit Maklern]]
+- [[Suchkriterien]]
+- [[Umgang mit Maklern]]
 - [[03 Efforts/Ongoing/Immo Invest/Kauf/Kaufvertrag]]
-- [[01 Atlas/Immo Invest/Kaufwissen/Entscheidungs Kategorien]]
-- [[01 Atlas/Immo Invest/Kaufwissen/Verhandlung]]
+- [[Entscheidungs Kategorien]]
+- [[Verhandlung]]

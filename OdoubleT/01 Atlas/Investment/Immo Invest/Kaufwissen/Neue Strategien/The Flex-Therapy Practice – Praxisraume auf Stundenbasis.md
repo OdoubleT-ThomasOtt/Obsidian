@@ -2,7 +2,7 @@
 created: 2026-01-27
 updated: 2026-01-27
 type: note
-up: "[[01 Atlas/Immo Invest/Kaufwissen/Neue Strategien/Neue Strategien]]"
+up: "[[Neue Strategien]]"
 tags:
   - effort/ongoing
   - immo/strategie

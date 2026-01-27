@@ -14,5 +14,5 @@ Ubersicht aller Immobilien im Besitz.
 
 ## Immobilien
 
-- [[01 Atlas/Immo Invest/Bestand/Rapfstrasse 3-1, Hollabrunn]]
-- [[01 Atlas/Immo Invest/Bestand/Baumergasse 44a, Wien, Parkplatz]]
+- [[Rapfstrasse 3-1, Hollabrunn]]
+- [[Baumergasse 44a, Wien, Parkplatz]]
