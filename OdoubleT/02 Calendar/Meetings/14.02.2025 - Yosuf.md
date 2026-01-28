@@ -1,0 +1,11 @@
+**Next meeting:**
+
+- Termin Romana nachverfolgen
+ 
+**14.02.2025**
+
+- **Salesnavigator** nutzen wenn die ersten Prototypen fertig sind um potentielle Kundengruppen in LinkedIn zu finden. Vielleicht ist auch apify zum scrapen der Kontakte günstiger
+- Skyleads um dann Massennachrichten zu schreiben oder besser mit n8n Workflow nutzen um Details zum Ansprechpartner zu finden und dann eine custom message schreiben
+- OpenwebUI um Prozesse einfach aufzusetzen und dem Kunden zu verkaufen
+- Yosuf gibt meinen Kontakt an die Controllerin mit dem Namen Romana weiter. Meeting planen und dann PT entwickeln
+- Bzgl. DSGVO kann man openai business nutzen oder lokal ein Model um die emails zu anonymisieren
