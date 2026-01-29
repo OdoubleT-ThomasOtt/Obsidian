@@ -1,3 +1,17 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: moc
+up: "[[Planning]]"
+related:
+  - "[[Austria Open Data]]"
+  - "[[Usecase finder]]"
+tags:
+  - foxra
+  - data
+  - moc
+---
+
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**Quelle_ID**|**Quellenname**|**Domain_Kategorie**|**Sub_Kategorie**|**Land**|**Raum_Genauigkeit_Mikro**|**API_Typ**|**Datenformat**|**Lizenztyp**|**Kommerzielle_Nutzung**|**Aufwand**|**Business_Value**|**Differenzierungswert**|**Kritikalitaet_MVP**|**Projektphase**|

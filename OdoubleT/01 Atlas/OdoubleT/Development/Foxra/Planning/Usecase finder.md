@@ -1,3 +1,17 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Planning]]"
+related:
+  - "[[Datenquellen]]"
+  - "[[Austria Open Data]]"
+tags:
+  - foxra
+  - data
+  - ai
+---
+
 Ich habe von [https://www.data.gv.at/api/hub/repo/](https://www.data.gv.at/api/hub/repo/) alle Catalogue (ca. 2300), Dataset (ca. 4000) und Distribution (ca. 13000) Informationen heruntergeladen. Ich habe also zu allen Entitäten den Title und Metadaten wie Description und Licence etc. Diese Daten sind in einer sqlite Datenbank gespeichert. Ich möchte nun aufgrund der Daten Business Cases entwickeln. Das heisst die KI soll mir helfen anhand der verfügbaren Daten sinnvolle Anwendungsfälle zu finden die ich in ein Produkt umwandeln kann. Ich arbeite soweit mit c#, blazor und claude code. Wie kann ich so grosse Datenmengen durch die KI verarbeiten lassen damit diese mir zusammenhänge findet. Als Beispiel möchte ich dir geben: Es gibt vielleicht Daten die aussagen dass in einem Wohnbereich eine erhöhte Lärmbelastung besteht und in einem anderen Datensatz kann man ableiten dass Baumaßnahmen zur Lärmberuhigung geplant sind. Dadurch wäre es sinnvoll in dem Bereich noch günstig in Wohnungen zu investieren weil diese derzeit aufgrund der Lärmbelastung günstig sind aber im Preis steigen werden und dies kann ich unter anderem in einem Immobilienbewertungstool verkaufen.
  ![Exported image](90%20Extras/Attachments/Exported%20image%2020260127223802-0.png)  
 

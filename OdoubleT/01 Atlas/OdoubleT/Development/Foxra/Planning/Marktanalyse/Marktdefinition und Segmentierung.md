@@ -1,3 +1,15 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Marktanalyse]]"
+related:
+  - "[[Wettbewerbsanalyse und Profilierung]]"
+tags:
+  - foxra
+  - market
+---
+
 Um die Wettbewerbsposition der geplanten Software zu bestimmen, ist eine präzise Segmentierung des Marktes notwendig. Der Immobiliensoftwaremarkt darf nicht als Monolith betrachtet werden, sondern zerfällt in funktionale Cluster, die unterschiedliche "Jobs to be Done" (JTBD) adressieren.
  
 1.1 Der Status Quo: Die Lücke im "Prosumer"-Segment  

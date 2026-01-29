@@ -1,3 +1,15 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Marktanalyse]]"
+related:
+  - "[[Strategische Positionierung und USP-Empfehlung]]"
+tags:
+  - foxra
+  - market
+---
+
 Die Analyse von Nutzerbewertungen auf Trustpilot, Reddit und in App Stores offenbart klare Frustrationsquellen.
  
 **5.1 "Excel-Hölle" (Fragilität)**  

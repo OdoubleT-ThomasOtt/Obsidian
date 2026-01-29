@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Marktanalyse]]"
+related:
+  - "[[Voice of the Customer Pain Points]]"
+  - "[[Fazit]]"
+tags:
+  - foxra
+  - market
+---
+
 Basierend auf der Analyse empfehlen wir, die Software nicht als "Taschenrechner", sondern als "Digitales Family Office" zu positionieren.
  
 **7.1 Der USP: "Institutionelle Präzision für Privatanleger"**  

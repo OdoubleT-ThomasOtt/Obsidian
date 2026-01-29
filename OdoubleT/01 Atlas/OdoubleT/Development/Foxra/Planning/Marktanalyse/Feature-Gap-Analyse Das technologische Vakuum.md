@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Marktanalyse]]"
+related:
+  - "[[Wettbewerbsanalyse und Profilierung]]"
+  - "[[Top-5 Feature Parity Matrix]]"
+tags:
+  - foxra
+  - market
+---
+
 Verglichen mit den identifizierten Wettbewerbern deckt Ihr MVP kritische Lücken ab, die insbesondere für den deutschen Markt essentiell sind.
  
 **3.1 Die Steuer-Simulations-Lücke (Deep Tax)**  

@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Planning]]"
+related:
+  - "[[Styling]]"
+  - "[[Marktanalyse]]"
+tags:
+  - foxra
+  - features
+---
+
 **1. Das "Deal-Cockpit" (Akquise & Basisdaten)**  
 **Benutzersicht:** "Hier gebe ich die harten Fakten des Exposés und meine Kaufnebenkosten ein." Dies ist der Einstiegspunkt für jedes neue Projekt.
 

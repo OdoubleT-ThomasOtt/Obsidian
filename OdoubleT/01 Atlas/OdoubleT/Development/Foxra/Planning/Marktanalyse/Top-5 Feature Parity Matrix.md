@@ -1,3 +1,15 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Marktanalyse]]"
+related:
+  - "[[Feature-Gap-Analyse Das technologische Vakuum]]"
+tags:
+  - foxra
+  - market
+---
+
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 |**Feature**|**Ihr C# MVP**|**Immocation (Excel)**|**Vermietet.de**|**ThinkImmo**|**Immo Cashflow App**|**RealEstatePilot**|

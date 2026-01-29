@@ -1,3 +1,17 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: moc
+up: "[[Planning]]"
+related:
+  - "[[Wettbewerbsanalyse und Profilierung]]"
+  - "[[Fazit]]"
+tags:
+  - foxra
+  - market
+  - moc
+---
+
 Der Markt für Immobiliensoftware (PropTech) in der DACH-Region befindet sich in einer Phase der Ausdifferenzierung. Während Plattformen für die Vermarktung (ImmobilienScout24, Immowelt) und die operative Verwaltung (Vermietet.de, Immocloud) einen hohen Reifegrad erreicht haben, existiert im Segment der präzisen Investitionsanalyse und Finanzsimulation ein signifikantes technologisches Vakuum.
  
 Die vorliegende Deep-Research-Analyse untersucht die Marktviabilität einer geplanten C#-basierten Desktop-Software, die sich an private Immobilieninvestoren richtet. Der geplante Funktionsumfang – tiefe Steuersimulation (AfA, Grenzsteuersatz), 30-Jahres-Prognosen, granulare Kostenerfassung und Multi-Lender-Finanzierungsstrukturen – adressiert exakt die Schwachstellen bestehender Lösungen.

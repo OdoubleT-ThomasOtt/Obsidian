@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Marktanalyse]]"
+related:
+  - "[[Marktdefinition und Segmentierung]]"
+  - "[[Feature-Gap-Analyse Das technologische Vakuum]]"
+tags:
+  - foxra
+  - market
+---
+
 In diesem Abschnitt werden die relevanten Wettbewerber detailliert analysiert und kategorisiert. Die Analyse basiert auf den identifizierten Marktclustern.
  
 **2.1 Cluster A: Sourcing & Deal-Screening (Der Trichter-Einstieg)**  
