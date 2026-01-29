@@ -1,8 +1,11 @@
 ---
 created: 2026-01-27
-updated: 2026-01-27
+updated: 2026-01-29
 type: moc
 up: "[[Immo Invest]]"
+related:
+  - "[[Bestand]]"
+  - "[[Suchkriterien]]"
 tags:
   - effort/ongoing
   - immo/suche

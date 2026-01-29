@@ -1,8 +1,11 @@
 ---
 created: 2026-01-27
-updated: 2026-01-27
+updated: 2026-01-29
 type: note
 up: "[[Kauf]]"
+related:
+  - "[[Bestand]]"
+  - "[[Entscheidungs Kategorien]]"
 tags:
   - effort/ongoing
   - immo/kauf

@@ -1,7 +1,7 @@
 ---
 name: The_Obsidian_Writer
-description: This agent is responsible for writing and editing content in Obsidian. It receives processed data from other agents and handles all vault operations following the ACE framework rules.
-model: opus
+description: "This agent is responsible for writing and editing content in Obsidian. It receives processed data from other agents and handles all vault operations following the ACE framework rules."
+model: sonnet
 color: purple
 ---
 

@@ -1,8 +1,12 @@
 ---
 created: 2026-01-27
-updated: 2026-01-27
+updated: 2026-01-29
 type: note
 up: "[[Bestand]]"
+related:
+  - "[[Rapfstrasse 3-1, Hollabrunn]]"
+  - "[[Suchkriterien]]"
+  - "[[Entscheidungs Kategorien]]"
 tags:
   - effort/ongoing
   - immo/bestand
