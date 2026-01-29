@@ -5,6 +5,8 @@ type: note
 up: "[[Development]]"
 related:
   - "[[25 Key Takeways about agents]]"
+  - "[[Schritte für DSGVO]]"
+  - "[[DSGVO]]"
 tags:
   - development
   - n8n
