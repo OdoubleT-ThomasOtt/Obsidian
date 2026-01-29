@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Produktideen entwickeln]]"
+related:
+  - "[[Product Research]]"
+tags:
+  - product/trading
+  - finance
+  - analysis
+---
+
 1. Ziel ist es eine Gesamtanlyse zu bekommen indem folgendes vereint wird
     1. Ellioth Wave Theory
     2. Fundamental data
