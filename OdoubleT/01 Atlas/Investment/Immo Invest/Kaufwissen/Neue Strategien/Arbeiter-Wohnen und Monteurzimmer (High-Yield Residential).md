@@ -6,6 +6,9 @@ up: "[[Neue Strategien]]"
 tags:
   - effort/ongoing
   - immo/strategie
+related:
+  - "[[Corporate Housing und Business Apartments]]"
+  - "[[The Corporate Project Hub]]"
 ---
 
 # Arbeiter-Wohnen und Monteurzimmer (High-Yield Residential)

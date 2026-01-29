@@ -6,6 +6,9 @@ up: "[[Neue Strategien]]"
 tags:
   - effort/ongoing
   - immo/strategie
+related:
+  - "[[The Flex-Therapy Practice – Praxisraume auf Stundenbasis]]"
+  - "[[The Medical Recovery Apartment]]"
 ---
 
 # The Bridal Morning Suite

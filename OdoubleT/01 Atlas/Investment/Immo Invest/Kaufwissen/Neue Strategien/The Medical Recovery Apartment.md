@@ -6,6 +6,9 @@ up: "[[Neue Strategien]]"
 tags:
   - effort/ongoing
   - immo/strategie
+related:
+  - "[[Corporate Housing und Business Apartments]]"
+  - "[[The Bridal Morning Suite]]"
 ---
 
 # The Medical Recovery Apartment

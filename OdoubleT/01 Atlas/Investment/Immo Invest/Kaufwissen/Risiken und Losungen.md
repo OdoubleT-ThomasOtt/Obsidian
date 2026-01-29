@@ -1,11 +1,14 @@
 ---
 created: 2026-01-27
-updated: 2026-01-27
+updated: 2026-01-29
 type: note
-up: "[[Immo Invest]]"
+up: "[[Kaufwissen]]"
 tags:
   - effort/ongoing
   - immo/risiko
+related:
+  - "[[Entscheidungs Kategorien]]"
+  - "[[Suchkriterien]]"
 ---
 
 # Risiken und Losungen

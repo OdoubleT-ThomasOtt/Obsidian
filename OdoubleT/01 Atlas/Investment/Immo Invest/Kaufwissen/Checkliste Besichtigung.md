@@ -1,11 +1,14 @@
 ---
 created: 2026-01-27
-updated: 2026-01-27
+updated: 2026-01-29
 type: note
-up: "[[03 Efforts/Ongoing/Immo Invest/Suchkriterien/Suchkriterien]]"
+up: "[[Kaufwissen]]"
 tags:
   - effort/ongoing
   - immo/checkliste
+related:
+  - "[[Suchkriterien]]"
+  - "[[Entscheidungs Kategorien]]"
 ---
 
 # Checkliste Besichtigung

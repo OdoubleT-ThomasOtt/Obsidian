@@ -1,12 +1,15 @@
 ---
 created: 2026-01-27
-updated: 2026-01-27
+updated: 2026-01-29
 type: note
-up: "[[Kauf]]"
+up: "[[Kaufwissen]]"
 tags:
   - effort/ongoing
   - immo/kauf
   - immo/verhandlung
+related:
+  - "[[Umgang mit Maklern]]"
+  - "[[Kauf]]"
 ---
 
 # Verhandlung
