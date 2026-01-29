@@ -1,5 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[LinkedIn Komunikation]]"
+related:
+  - "[[Kontaktanfragen]]"
+  - "[[Kontakt Bestätigungen]]"
+  - "[[Gesprächsleitfaden Verkauf Erstgespräch]]"
+---
+
 Guten Tag,
- 
+
 ich beschäftige mich derzeit intensiv mit Automatisierungslösungen im Facility Management, welche sprach gesteuert sein können und dazu dienen, Informationen zentral zu sammeln und zu verarbeiten – beispielsweise zur telefonischen Störungsannahme oder zur Dokumentation aktueller Aufgaben.  
 Um sicherzustellen, dass diese Lösungen praxisnah und wirklich hilfreich sind, suche ich Expertenmeinungen direkt aus der Praxis. Ihre Erfahrung und Einschätzung zu typischen Abläufen und täglichen Herausforderungen wären für mich sehr wertvoll.
  

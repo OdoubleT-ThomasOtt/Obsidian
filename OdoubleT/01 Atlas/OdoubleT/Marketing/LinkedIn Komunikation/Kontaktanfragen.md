@@ -1,7 +1,18 @@
-Guten Tag,  
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[LinkedIn Komunikation]]"
+related:
+  - "[[Kontakt Bestätigungen]]"
+  - "[[Follow Ups]]"
+  - "[[Sales Navigator Guide]]"
+---
+
+Guten Tag,
 als Inhaber einer Automation Agency interessiere ich mich für den Austausch mit Fachleuten aus Ihrer Branche und würde mich freuen, Sie zu meinem Netzwerk hinzuzufügen.
- 
-Beste Grüße,  
+
+Beste Grüße,
 Thomas Ott
    
 
