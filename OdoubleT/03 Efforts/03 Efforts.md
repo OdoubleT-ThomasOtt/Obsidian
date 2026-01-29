@@ -1,6 +1,6 @@
 ---
 created: 2026-01-27
-updated: 2026-01-27
+updated: 2026-01-29
 type: index
 tags:
   - efforts
@@ -19,20 +19,20 @@ Efforts sind **zielgerichtete Vorhaben** - Projekte, laufende Bemühungen und ab
 
 ## Struktur
 
+### On (Aktiv)
+Projekte mit definiertem Ziel, aktuell in Bearbeitung.
+
 ### Ongoing (Laufend)
 Kontinuierliche Bemühungen ohne klares Enddatum.
 
 - [[Immo Invest]] - Immobilien-Investment
 - [[Gead Geschäft]] - Thai-Massage Geschäft
 
-### On (Aktiv)
-Projekte mit definiertem Ziel, aktuell in Bearbeitung.
+### Simmering (Köchelnd)
+Projekte auf kleiner Flamme - nicht aktiv, aber nicht vergessen.
 
-### Done (Abgeschlossen)
-Erfolgreich abgeschlossene Projekte.
-
-### Paused (Pausiert)
-Temporär zurückgestellte Projekte.
+### Sleeping (Archiviert)
+Erfolgreich abgeschlossene oder archivierte Projekte.
 
 ## Verknüpfungen
 

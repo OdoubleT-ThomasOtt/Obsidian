@@ -1,22 +1,14 @@
 ---
-created: 2026-01-27
+created: 2026-01-29
 updated: 2026-01-29
-type: moc
-up: "[[Immo Invest]]"
-related:
-  - "[[Suchkriterien]]"
-  - "[[Entscheidungs Kategorien]]"
-  - "[[Suche]]"
+type: note
+up: "[[Obsidian]]"
 tags:
   - effort/ongoing
-  - immo/bestand
+  - obsidian
+  - agents
 ---
 
-# Bestand
+# Agenten
 
-Ubersicht aller Immobilien im Besitz.
-
-## Immobilien
-
-- [[Rapfstrasse 3-1, Hollabrunn]] - Wohnung in Hollabrunn mit Hausverwaltung und abgeschlossenen Renovierungsarbeiten
-- [[Baumergasse 44a, Wien, Parkplatz]] - Parkplatz in Wien mit offenen Mietvertrags-Todos
+Dokumentation der Obsidian-Agenten für Vault-Management und Automatisierung.
