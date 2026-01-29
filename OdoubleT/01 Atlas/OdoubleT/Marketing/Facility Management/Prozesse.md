@@ -1,3 +1,12 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Facility Management]]"
+related:
+  - "[[Gesprächsleitfaden Verkauf Erstgespräch]]"
+---
+
 **Prozess 1: Störfall- und Reparaturmanagement**
 
 - **Beschreibung:** Hausmeister oder Techniker meldet per Sprachaufnahme einen Defekt (z. B. „Heizung im 3. OG Heizungsausfall“).

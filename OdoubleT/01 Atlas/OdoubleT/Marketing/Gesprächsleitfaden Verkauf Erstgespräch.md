@@ -1,3 +1,14 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Marketing]]"
+related:
+  - "[[Prozesse]]"
+  - "[[LinkedIn Komunikation]]"
+  - "[[Follow Ups]]"
+---
+
 **1. Gesprächseröffnung und Vertrauensaufbau**
 
 1. **Freundliche Begrüßung & Vorstellung**

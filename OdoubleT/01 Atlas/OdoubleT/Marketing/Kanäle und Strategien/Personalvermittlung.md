@@ -1,3 +1,12 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Kanäle und Strategien]]"
+related:
+  - "[[Marketing]]"
+---
+
 |   |   |   |   |   |
 |---|---|---|---|---|
 |**Name**|**Url**|**Kommentar**|**Ansprechparter**|**Verantwortlich**|
