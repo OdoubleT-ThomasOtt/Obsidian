@@ -1,6 +1,6 @@
 ---
 created: 2026-01-27
-updated: 2026-01-27
+updated: 2026-01-29
 type: index
 tags:
   - atlas
@@ -24,6 +24,6 @@ Der Atlas enthält **Maps of Content (MOCs)** und Dashboards, die als Navigation
 
 ## Verknüpfungen
 
+- [[Sources]] - Externe Quellen und Referenzmaterialien (Bücher, Dokumente)
 - [[02 Calendar]] - Zeitbasierte Notizen
 - [[03 Efforts]] - Projekte und Vorhaben
-- [[04 Sources]] - Quellen und Referenzen
