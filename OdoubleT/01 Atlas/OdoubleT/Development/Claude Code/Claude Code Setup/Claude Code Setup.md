@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Claude Code]]"
+related:
+  - "[[Install Ubuntu in HyperV]]"
+  - "[[MCP Setup]]"
+tags:
+  - claude
+  - setup
+---
+
 **Linux Setup:**
 
 2. Install 22 from Template. Do not update to 24 because it will not support fullscreen

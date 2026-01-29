@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Claude Code Setup]]"
+related:
+  - "[[Claude Code Setup]]"
+tags:
+  - linux
+  - setup
+  - hyperv
+---
+
 1. disable secure boot in vm settings, install from iso (additional software added)
 2. Set-VM -VMName "DevLnx" -EnhancedSessionTransportType HvSocket (powershell in windows ausführen)
 3. Enhanced mode install: [https://www.windowspro.de/wolfgang-sommergut/ubuntu-2404-hyper-v-vm-generation-2-installieren](https://www.windowspro.de/wolfgang-sommergut/ubuntu-2404-hyper-v-vm-generation-2-installieren)

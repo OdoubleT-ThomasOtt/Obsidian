@@ -1,3 +1,17 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Claude Code Setup]]"
+related:
+  - "[[Claude Code Setup]]"
+  - "[[Claude Best Practices]]"
+tags:
+  - claude
+  - mcp
+  - setup
+---
+
 **Benötigte MCP Funktionalitäten:**
 
 - MS SQL Server Management (Schema Änderungen und Datenzugriff)

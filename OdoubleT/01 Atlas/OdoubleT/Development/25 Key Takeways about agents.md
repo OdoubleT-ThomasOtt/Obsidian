@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Development]]"
+related:
+  - "[[N8N Best practices]]"
+  - "[[Claude Best Practices]]"
+tags:
+  - development
+  - ai-agents
+---
+
 **1. KI-Agenten sind keine Mitarbeiter**  
 KI-Agenten sind weder reine Automatisierungen noch Ersatz für menschliche Mitarbeiter. Sie benötigen klare, strukturierte Anweisungen und können nicht selbstständig lernen oder improvisieren. Während ein Mitarbeiter mehrere Standard Operating Procedures (SOPs) übernehmen kann, benötigt ein KI-Agent für jede Aufgabe ein eigenes Training. Deshalb sollten Agenten eher als spezialisierte Werkzeuge betrachtet werden, die bestimmte Prozesse unterstützen.
  
