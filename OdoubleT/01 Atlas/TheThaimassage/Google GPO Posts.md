@@ -2,7 +2,7 @@
 created: 2026-01-27
 updated: 2026-01-27
 type: note
-up: "[[Gead Geschäft]]"
+up: "[[TheThaimassage]]"
 tags:
   - effort/ongoing
   - gead/marketing

@@ -1,3 +1,10 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Balkon]]"
+---
+
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 |Name|Links|Boden|Giessen|Kälte|Dünger|Schneiden|Temperatur|
