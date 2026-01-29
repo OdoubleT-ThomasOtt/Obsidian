@@ -1,3 +1,18 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: moc
+up: "[[DSGVO]]"
+related:
+  - "[[Muster Datenschutzhinweis]]"
+  - "[[Retell AI - DSGVO-Konformität]]"
+  - "[[N8N Best practices]]"
+tags:
+  - legal/dsgvo
+  - automation
+  - compliance
+---
+
 |                                                                                                                                                       |                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [Datenschutzaspekte bei der Nutzung der ChatGPT-API \| Simpliant Insights](https://simpliant.eu/de/insights/GDPR-requirements-when-using-chatgpt-api) | DSGVO in Bezug auf OpenAI chatgpt API |

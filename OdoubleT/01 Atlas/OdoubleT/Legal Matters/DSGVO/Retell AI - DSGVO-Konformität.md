@@ -1,3 +1,16 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[DSGVO]]"
+related:
+  - "[[Schritte für DSGVO]]"
+tags:
+  - legal/dsgvo
+  - retell-ai
+  - voice-automation
+---
+
 **Schritt 1: Auftragsdatenverarbeitung (DPA)**  
 Schließen Sie mit Retell AI eine Vereinbarung zur Auftragsdatenverarbeitung ab (Data Processing Addendum). Darin sind Rollen (Verantwortlicher vs. Auftragsverarbeiter), Unterauftragsverarbeiter, Standardvertragsklauseln und TOMs geregelt. Die DPA erhalten Sie typischerweise auf Anfrage (z. B. per E-Mail an founders@retellai.com).
  

@@ -1,3 +1,15 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: note
+up: "[[Schritte für DSGVO]]"
+related:
+  - "[[Schritte für DSGVO]]"
+tags:
+  - legal/dsgvo
+  - datenschutz
+---
+
 - **Art und Zweck der Verarbeitung:**
 
 Unsere Webseite nutzt einen Kundenchatbot, der mit der GPT-API von OpenAI betrieben wird, um Ihre Anfragen effizient und interaktiv zu bearbeiten. Wenn Sie den Chatbot nutzen, können folgende Arten personenbezogener Daten verarbeitet werden: Texteingaben im Chat, die Informationen über Ihre Anfrage enthalten, und technische Daten wie IP-Adresse und Nutzungszeiten. Diese Daten werden benötigt, um Ihre Anfragen zu verstehen, entsprechend zu reagieren und unseren Service zu verbessern.
