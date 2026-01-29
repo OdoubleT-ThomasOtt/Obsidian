@@ -1,3 +1,15 @@
+---
+created: 2026-01-29
+updated: 2026-01-29
+type: moc
+up: "[[Legal Matters]]"
+related:
+  - "[[OdoubleT]]"
+tags:
+  - legal/steuern
+  - business/strategie
+---
+
 **Freier Dienstnehmer:**
 
 - Freier Dienstnehmer erzeugt **ca. 20000€ weniger Einkommen pro Jahr** bei 137600€ Umsatz (aktuell 2025)
