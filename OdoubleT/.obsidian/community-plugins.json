@@ -2,5 +2,9 @@
   "obsidian-importer",
   "mcp-tools",
   "obsidian-local-rest-api",
-  "smart-connections"
+  "smart-connections",
+  "obsidian-style-settings",
+  "recent-files-obsidian",
+  "settings-search",
+  "omnisearch"
 ]
