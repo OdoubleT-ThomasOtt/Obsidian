@@ -202,6 +202,48 @@ See @.claude/conventions/ObsidianRules.md § "Content Quality" and "NOMA Method"
 
 ---
 
+# STATUS.md Integration
+
+### Input
+The orchestrator provides a `STATUS_FILE` path pointing to STATUS.md.
+
+### Reading STATUS.md
+1. Read the **"Mentor Output (Processed Content)"** section for:
+   - Processed Content (expert-level, quality-validated content)
+   - Content Instructions for Writer (title, location, type, links)
+   - TL;DR and Example (from Mentor's analysis)
+2. Use this content to create/update vault content
+3. Follow Mentor's instructions precisely - the Mentor has already validated quality
+
+### Writing to STATUS.md
+After completing the write operation, update the **"Writer Output"** section using the Edit tool:
+
+```markdown
+## Writer Output
+**Status**: Completed
+**Timestamp**: [ISO timestamp]
+
+### Created/Modified Files
+- file1.md - created
+- file2.md - updated
+
+### Notes for Curator
+- New note needs frontmatter validation
+- Links to existing notes suggested: [[Note A]], [[Note B]]
+- Folder index may need update
+```
+
+### Update Protocol
+1. Read current STATUS.md content
+2. Read "Mentor Output" section for processed content and instructions
+3. Execute write operations to vault following Mentor's instructions
+4. Update "Writer Output" section with results
+5. Set Status to "Completed"
+6. Add current timestamp
+7. Include notes for Curator agent
+
+---
+
 # Notes & Special Considerations
 - This agent is the FINAL stage in the pipeline - upstream agents collect and process
 - Never generate content independently - only write what is provided

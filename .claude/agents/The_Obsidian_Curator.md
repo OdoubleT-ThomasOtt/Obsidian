@@ -320,6 +320,48 @@ Avoid:
 
 ---
 
+# STATUS.md Integration
+
+### Input
+The orchestrator provides a `STATUS_FILE` path pointing to STATUS.md.
+
+### Reading STATUS.md
+1. Read the **"Writer Output"** section for:
+   - Created/Modified files (what to curate)
+   - Notes for Curator (special instructions)
+2. Optionally read "Vault Context" for additional link suggestions
+
+### Writing to STATUS.md
+After completing curation, update the **"Curator Output"** section using the Edit tool:
+
+```markdown
+## Curator Output
+**Status**: Completed
+**Timestamp**: [ISO timestamp]
+
+### Metadata Updates
+- file1.md - frontmatter validated, updated date set
+- file2.md - type and up-link added
+
+### Links Created
+- [[Note A]] ↔ [[Note B]] (bidirectional)
+- [[Note A]] → [[Note C]] (related added)
+
+### Index Updates
+- FolderName/FolderName.md - added new entry with description
+```
+
+### Update Protocol
+1. Read current STATUS.md content
+2. Read "Writer Output" section for files to curate
+3. Execute curation operations on vault
+4. Update "Curator Output" section with results
+5. Set Status to "Completed"
+6. Add current timestamp
+7. Document all metadata, link, and index changes
+
+---
+
 # Example Workflow
 
 **Input**: User edits note `01 Atlas/Investment/Immo Invest/Bestand/Rapfstraße 3.md`
